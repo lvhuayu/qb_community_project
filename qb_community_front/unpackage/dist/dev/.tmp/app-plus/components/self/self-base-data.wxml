@@ -1,0 +1,1 @@
+<view class="base-menu data-v-478b4931"><block wx:for="{{baseData}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block class="data-v-478b4931"><view class="data-v-478b4931"><view class="data-v-478b4931">{{item.num}}</view><view class="data-v-478b4931">{{item.name}}</view></view></block></block></view>

@@ -1,0 +1,74 @@
+
+page{
+	background: #f4f4f4;
+}
+.user-space-msg{
+	padding:20rpx  50rpx 50rpx;
+	background: #FFFFFF;
+}
+.user-space-msg>view:first-child{
+	padding-bottom: 25rpx;
+	border-bottom: 1rpx solid #eee;
+}
+.tit{
+	font-size: 32rpx;
+	font-weight: bold;
+	color: #333;
+	padding:12rpx 0;
+}
+.fz{
+	color: #999;
+	padding: 5rpx 0;
+}
+.user-space-menu{
+	position: absolute;
+	right: 10rpx;
+	top: 105rpx;
+	width: 250rpx;
+	background:#fff;
+	z-index: 999;
+	-webkit-box-shadow: 0 0 2rpx 2rpx #eee;
+	        box-shadow: 0 0 2rpx 2rpx #eee;
+}
+.user-space-menu>view{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	padding: 7rpx 20rpx;
+}
+.user-space-menu>view:first-child{
+	border-bottom: 1rpx solid #eee;
+}
+.user-space-menu>view>view{
+	font-size: 32rpx;
+}
+.user-space-menu>view>view:first-child{
+	position: absolute;
+	left: 20rpx;
+}
+.user-space-menu>view>view:last-child{
+	padding-left: 45rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+}
+.user-mask{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0,0,0,.4);
+	z-index: 99;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "关于仿糗百",
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "self-item-list": "/components/self/self-item-list"
+  }
+}

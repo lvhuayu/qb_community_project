@@ -1,0 +1,97 @@
+
+.user-space.data-v-21976a89{
+	height: 470rpx;
+	position: relative;
+	overflow: hidden;
+}
+.user-space image.data-v-21976a89{
+	width: 100%;
+	height: 100%;
+	z-index: 7;
+}
+.user-info-top.data-v-21976a89{
+	width: 100%;
+	padding: 0 60rpx;
+	position: absolute;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	top: 50%;
+	-webkit-transform: translateY(-30%);
+	    -ms-transform: translateY(-30%);
+	        transform: translateY(-30%);
+	z-index: 99;
+}
+.user-space .user-info-top .info-img.data-v-21976a89{
+	width: 200rpx;
+	height: 200rpx;
+	margin-right: 40rpx;
+}
+.user-info-top .info-img image.data-v-21976a89{
+	width: 200rpx;
+	height: 200rpx;
+	border-radius: 100%;
+	-webkit-filter: none !important;
+	        filter: none !important;
+}
+.user-info-top .info-msg .msg-num.data-v-21976a89{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.user-info-top .info-msg .msg-num>view.data-v-21976a89{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	margin: 0 30rpx;
+}
+.user-info-top .info-msg .msg-num>view>view.data-v-21976a89:first-child{
+	font-size: 44rpx;
+	font-weight: 700;
+	color: #fff;
+}
+.user-info-top .info-msg .msg-num>view>view.data-v-21976a89:last-child{
+	font-size: 30rpx;
+	font-weight: 700;
+	color: #fff;
+	margin-top: -10rpx;
+}
+.user-info-top .info-msg .msg-focus.data-v-21976a89{
+	width: 100%;
+	margin-top: 10rpx;
+	height: 70rpx;
+	text-align: center;
+	line-height: 70rpx;
+	font-size: 35rpx;
+	color: #fff;
+	background:#fede33;
+	border-radius: 4rpx;
+	font-weight: bold;
+}
+.user-info-top .info-msg .msg-focus-in.data-v-21976a89{
+	background: #fff;
+	color: #333;
+}	
+	
+	
+

@@ -1,0 +1,26 @@
+
+.uni-comment.data-v-5d66442f{
+	padding: 20rpx;
+	margin-top: 20rpx;
+	background: #fff;
+}
+.u-comment-title.data-v-5d66442f{
+	height: 80rpx;
+	line-height: 80rpx;
+	font-weight: 700;
+}
+.uni-comment-replay-btn.data-v-5d66442f{
+	border: 1rpx solid #eee;
+}
+.u-comment-list-child.data-v-5d66442f{
+	padding: 20rpx;
+	background: #f4f4f4;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	width: auto;
+	margin: 0;
+	margin-left: 70rpx;
+	border-bottom: 1px solid #eee;
+}	
+	
+

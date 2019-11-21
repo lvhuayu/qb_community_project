@@ -1,0 +1,21 @@
+
+.user-resetpwd {
+	padding: 0 10rpx;
+}
+.user-resetpwd button {
+	width: 84%;
+	margin: 30rpx auto;
+	background: #ffe933;
+	color: #333333;
+}
+.user-set-logout-dis {
+	background: #f4f4f4 !important;
+	color: #999 !important;
+}
+.uni-input {
+	padding-left: 30rpx;
+	height: 60rpx;
+	border-bottom: 1rpx solid #eee;
+	font-size: 32rpx;
+}
+

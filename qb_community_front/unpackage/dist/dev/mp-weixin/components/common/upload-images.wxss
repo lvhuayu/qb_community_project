@@ -1,0 +1,22 @@
+
+.cell-pd.data-v-23afd5c7 {
+	padding: 22rpx 30rpx;
+}
+.list-pd.data-v-23afd5c7 {
+	margin-top: 50rpx;
+}
+.uni-uploader__file.data-v-23afd5c7{
+	position: relative;
+}
+.icon-guanbi.data-v-23afd5c7{
+	position: absolute;
+	right: -10rpx;
+	top:-15rpx;
+	color: #fff;
+	z-index: 9;
+	border-radius:60rpx;
+	font-size: 36rpx;
+	background:rgba(0,0,0,.5);
+	line-height:37rpx;
+}
+

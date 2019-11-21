@@ -1,0 +1,83 @@
+
+.bg {
+	background: #fff;
+}
+.search {
+	padding: 20px;
+}
+.search>input {
+	background: #f4f4f4;
+	border-radius: 15rpx;
+}
+
+/* 搜索框 */
+.pltext {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	font-size: 30rpx;
+}
+
+/* 轮播图 */
+.top-swiper {
+	padding: 0 20rpx 20rpx 20rpx;
+}
+.top-swiper swiper-item {
+	border-radius: 10rpx;
+	overflow: hidden;
+}
+.top-swiper image {
+	width: 100%;
+	height: 100%;
+}
+.recupd{
+	width: 90%;
+	margin: 0 auto;
+	padding: 10rpx;
+	color: #333;
+}
+.no-follows{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	margin-top: 100rpx;
+}
+.no-follows>image{
+	width: 50%;
+	height: 50%;
+}
+.no-followstext{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-size: 32rpx;
+	color: #999;
+}
+

@@ -1,0 +1,32 @@
+
+.other-login-model.data-v-07cf63ea{
+	width: 60%;
+	background: eee;
+	margin: 15rpx auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	border-bottom: 1rpx solid #eee;
+}
+.other-login-model>view .icon-weibo1.data-v-07cf63ea{
+	font-size: 90rpx;
+	color: #e84118;
+}
+.other-login-model>view .icon-qq.data-v-07cf63ea{
+	font-size: 100rpx;
+	color:#00a8ff;
+}
+.other-login-model>view .icon-weixin.data-v-07cf63ea{
+	font-size: 90rpx;
+	color:#4cd137;
+}
+

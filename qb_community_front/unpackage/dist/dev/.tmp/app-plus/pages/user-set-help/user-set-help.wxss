@@ -1,0 +1,12 @@
+
+.user-set-help button{
+	width: 84%;
+	margin: 30rpx auto;
+	background: #ffe933;
+	color: #333333;
+}
+.btn-hover-class{
+	background: #f4f4f4 !important;
+	color: #ccc !important;
+}
+

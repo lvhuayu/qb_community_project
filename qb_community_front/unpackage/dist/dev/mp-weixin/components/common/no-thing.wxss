@@ -1,0 +1,26 @@
+
+.noting.data-v-1763b32f{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	background: #FFFFFF;
+	position: absolute;
+	top: -120rpx;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+.noting image.data-v-1763b32f{
+	width: 30%;
+	height: 25%;
+}
+

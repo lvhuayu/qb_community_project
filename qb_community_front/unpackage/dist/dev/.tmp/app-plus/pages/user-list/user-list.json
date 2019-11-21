@@ -1,0 +1,29 @@
+{
+  "scrollIndicator": "none",
+  "bounce": "none",
+  "titleNView": {
+    "autoBackButton": false,
+    "searchInput": {
+      "align": "left",
+      "backgroundColor": "#f7f7f7",
+      "borderRadius": "4px",
+      "placeholder": "搜索好友",
+      "placeholderColor": "#CCCCCC",
+      "disabled": true
+    },
+    "buttons": [
+      {
+        "color": "#333333",
+        "colorPressed": "#666666",
+        "float": "right",
+        "fontSize": "16px",
+        "text": "取消"
+      }
+    ]
+  },
+  "usingComponents": {
+    "swiper-tab-head": "/components/index/swiper-tab-head",
+    "friend-list": "/components/user-list/friend-list",
+    "no-thing": "/components/common/no-thing"
+  }
+}

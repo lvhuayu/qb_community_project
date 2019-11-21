@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "card-list": "/components/index/card-list",
+    "swiper-tab-head": "/components/index/swiper-tab-head",
+    "load-more": "/components/common/load-more",
+    "no-thing": "/components/common/no-thing"
+  }
+}

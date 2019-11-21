@@ -1,0 +1,8 @@
+
+.body button{
+	width: 84%;
+	margin: 30rpx auto;
+	background: #ffe933;
+	color: #333333;
+}
+

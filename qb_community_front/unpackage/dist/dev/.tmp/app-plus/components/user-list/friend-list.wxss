@@ -1,0 +1,77 @@
+
+.friend-list.data-v-bcda4db2{
+	padding:15rpx 20px;
+	border-bottom: 1rpx solid #eee;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.nv.data-v-bcda4db2{
+	background:#ff4757 ;
+}
+.nan.data-v-bcda4db2{
+	background: #00a8ff;
+}
+.friend-list .u-img.data-v-bcda4db2{
+	-webkit-box-flex: 20%;
+	-webkit-flex: 20%;
+	    -ms-flex: 20%;
+	        flex: 20%;
+	width: 85rpx;
+	height: 85rpx;
+}
+.friend-list .u-img image.data-v-bcda4db2{
+	width: 85rpx;
+	height: 85rpx;
+	border-radius: 100%;
+}
+.friend-list .u-msg.data-v-bcda4db2{
+	-webkit-box-flex: 80%;
+	-webkit-flex: 80%;
+	    -ms-flex: 80%;
+	        flex: 80%;
+}
+.friend-list .u-msg .msg-name.data-v-bcda4db2{
+	font-size: 30rpx;
+}
+.friend-list .u-msg .msg-age.data-v-bcda4db2{
+	margin-top: 5rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 80rpx;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-radius: 30rpx;
+}
+.friend-list .u-msg .msg-age>view.data-v-bcda4db2{
+	margin:0 5rpx;
+	color: #fff;
+	font-size: 21rpx;
+}
+.friend-list .u-icon>view.data-v-bcda4db2{
+	font-size: 42rpx;
+	color: #999;
+}
+.u-icon .icon-pinglunicon-.data-v-bcda4db2{
+	color: #FF0000 !important;
+}
+.u-icon .icon-icon-add.data-v-bcda4db2{
+	color: #e74c3c !important;
+}
+.u-icon .icon-huguan.data-v-bcda4db2{
+	color: #e67e22 !important;
+}
+

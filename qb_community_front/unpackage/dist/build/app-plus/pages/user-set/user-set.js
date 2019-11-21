@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"body wx-button{ width: 84%; margin: ",[0,30]," auto; background: #ffe933; color: #333333; }\n",],undefined,{path:"./pages/user-set/user-set.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user-set/user-set.wxml') } }));

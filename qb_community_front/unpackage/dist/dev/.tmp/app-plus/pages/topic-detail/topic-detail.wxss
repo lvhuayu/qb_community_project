@@ -1,0 +1,19 @@
+
+page {
+	background: #ecf0f1;
+}
+.nothingTxt{
+	margin-top: 100rpx;
+	font-size: 32rpx;
+	color: #171606;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	color: #999;
+}
+

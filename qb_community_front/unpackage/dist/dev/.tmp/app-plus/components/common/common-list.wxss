@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 公共列表 */
+.common-list.data-v-61aa23fa{
+	margin:10rpx 0 20rpx 0;
+	padding: 10rpx 20rpx;
+	background: #fff;
+}
+.common-list .common-list-top.data-v-61aa23fa{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.common-list .list-user.data-v-61aa23fa{
+	height: 80rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.common-list .list-user .msg-user.data-v-61aa23fa{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.common-list .list-user .user-img.data-v-61aa23fa{
+	width: 70rpx;
+	height: 70rpx;
+	overflow: hidden;
+	border-radius: 100%;
+	margin-right: 20rpx;
+}
+.common-list .list-user .user-name.data-v-61aa23fa{
+	color: #999;
+}
+.user-img image.data-v-61aa23fa{
+	width: 70rpx;
+	height: 70rpx;
+}
+.common-list .list-user .user-sex.data-v-61aa23fa{
+	margin-left: 20rpx;
+	color: #fff;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	margin-top: -10rpx;
+}
+.common-list .list-user .user-sex>view.data-v-61aa23fa{
+	padding: 0 20rpx;
+	font-size: 22rpx;
+	margin-top:5rpx;
+	border-radius: 18rpx;
+	background: #007AFF;
+}
+.common-list .list-user .user-sex .nv.data-v-61aa23fa{
+	background:#fd79a8;
+}
+.common-list .list-focus.data-v-61aa23fa{
+	color: #FF0000;
+	margin-right: 20rpx;
+}
+.common-list .list-focus>view.data-v-61aa23fa{
+	font-size: 38rpx;
+}
+.common-list .common-list-mid.data-v-61aa23fa {
+	margin-bottom: 15rpx;
+}
+.common-list .common-list-mid .mid-tit.data-v-61aa23fa{
+	padding: 10rpx;
+	color: #171606;
+	font-weight: 700;
+}
+.common-list .common-list-mid .mid-showimg.data-v-61aa23fa{
+	width: 100%;
+	border-radius: 15rpx;
+	overflow: hidden;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	position: relative;
+}
+.common-list .common-list-mid .mid-showimg .img-play.data-v-61aa23fa{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%);
+	    -ms-transform: translate(-50%,-50%);
+	        transform: translate(-50%,-50%);
+	font-size: 120rpx;
+	color: #fff;
+}
+.common-list .common-list-mid .mid-showimg .img-playmsg.data-v-61aa23fa{
+	position: absolute;
+	bottom: 3%;
+	right: 3%;
+	font-size: 23rpx;
+	padding: 3rpx 14rpx;
+	background: rgba(0,0,0,.5);
+	color: #fff;
+	border-radius: 30rpx;
+	text-align: center;
+}
+.common-list .common-list-mid .mid-showimg image.data-v-61aa23fa{
+	width: 100%;
+	height: 100%;
+}
+.common-list .common-list-bot .bot-add.data-v-61aa23fa{
+	background: #eee;
+	display: inline;
+	font-size: 25rpx;
+	padding: 10rpx;
+	border-radius: 5rpx;
+	color: #999;
+}
+.common-list .common-list-bot .bot-handle.data-v-61aa23fa{
+	margin-top: 15rpx;
+	height: 55rpx;
+	border: 1rpx solid #eee;
+	border-radius: 5rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+}
+.common-list .common-list-bot .bot-handle>view.data-v-61aa23fa{
+	width: 30%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	font-size: 30rpx;
+	color: #999;
+}
+.common-list .common-list-bot .bot-handle>view .icon-dianzan2.data-v-61aa23fa{
+	margin-top: -6rpx;
+}
+.common-list .common-list-bot .bot-handle>view>view.data-v-61aa23fa{
+	height: 100%;
+	width: 35rpx;
+	font-size: 28rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+
+

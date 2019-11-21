@@ -1,0 +1,67 @@
+
+.user-set-userinfo {
+	padding: 0 10rpx;
+}
+.user-set-userinfo button {
+	width: 84%;
+	margin: 30rpx auto;
+	background: #ffe933;
+	color: #333333;
+}
+.user-info {
+	margin-top: 13rpx;
+	padding: 0 20rpx;
+}
+.user-info .info-item:first-child {
+	border-top: 1rpx solid #eee;
+	height: 120rpx;
+}
+.user-info .info-item {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	border-bottom: 1rpx solid #eee;
+	height: 90rpx;
+}
+.user-info .info-item .item-name {
+	font-size: 32rpx;
+	font-weight: bold;
+	color: #ccc;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+}
+.user-info .info-item .item-val {
+	font-size: 29rpx;
+	color: #333;
+	margin-right: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	text-align: right;
+	max-width: 70%;
+}
+.user-info .info-item .item-val image {
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 100%;
+}
+.user-info .info-item .item-icon>view {
+	color: #ccc;
+}
+

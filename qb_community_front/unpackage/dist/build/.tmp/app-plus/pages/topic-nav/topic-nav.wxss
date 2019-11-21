@@ -1,0 +1,8 @@
+
+.recupd{
+	width: 90%;
+	margin: 0 auto;
+	padding: 10rpx;
+	color: #333;
+}
+

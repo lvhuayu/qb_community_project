@@ -1,0 +1,89 @@
+
+.body.data-v-7d9b95a4{
+	padding: 0 20rpx;
+}
+.paper-list.data-v-7d9b95a4{
+	height: 120rpx;
+	border-bottom: 1rpx solid #eee;
+}
+.paper-list .paper-uimg.data-v-7d9b95a4{
+	width: 90rpx;
+	height:90rpx;
+	border-radius: 100%;
+	overflow: hidden;
+	float: left;
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	    -ms-transform: translateY(-50%);
+	        transform: translateY(-50%);
+}
+.paper-list .paper-uimg image.data-v-7d9b95a4{
+	width: 90rpx;
+	height: 90rpx;
+}
+.paper-list .paper-umsg.data-v-7d9b95a4{
+	height: 110rpx;
+	width: 85%;
+	padding-left: 15rpx;
+	float: left;
+	margin-left: 95rpx;
+}
+.paper-list .paper-umsg .umsg-top.data-v-7d9b95a4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	margin-top: 15rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.paper-list .paper-umsg .umsg-top .top-name.data-v-7d9b95a4{
+	font-size: 30rpx;
+	color: #3333333;
+}
+.paper-list .paper-umsg .umsg-top .top-time.data-v-7d9b95a4{
+	color: #ccc;
+	font-size: 26rpx;
+}
+.paper-list .paper-umsg .umsg-bot.data-v-7d9b95a4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.paper-list .paper-umsg .umsg-bot .bot-inner.data-v-7d9b95a4{
+	-webkit-box-flex: 90%;
+	-webkit-flex: 90%;
+	    -ms-flex: 90%;
+	        flex: 90%;
+	float: left;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	padding-right: 20rpx;
+	font-size: 26rpx;
+	color: #ccc;
+}
+.paper-list .paper-umsg .umsg-bot .bot-badeg.data-v-7d9b95a4{
+	-webkit-box-flex: 10%;
+	-webkit-flex: 10%;
+	    -ms-flex: 10%;
+	        flex: 10%;
+}	
+

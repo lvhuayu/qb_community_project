@@ -1,0 +1,30 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "小纸条",
+  "scrollIndicator": "none",
+  "animationType": "slide-in-left",
+  "titleNView": {
+    "buttons": [
+      {
+        "color": "#33333",
+        "colorPressed": "#666666",
+        "float": "left",
+        "fontSize": "25px",
+        "fontSrc": "/static/icon/icon.ttf",
+        "text": ""
+      },
+      {
+        "color": "#333333",
+        "colorPressed": "#666666",
+        "float": "right",
+        "fontSize": "23px",
+        "fontSrc": "/static/icon/icon.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "usingComponents": {
+    "paper-list": "/components/paper/paper-list",
+    "paper-handle-menu": "/components/paper/paper-handle-menu"
+  }
+}

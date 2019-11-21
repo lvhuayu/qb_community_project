@@ -1,0 +1,38 @@
+
+.handle-mask.data-v-c0bf9dee{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 8;
+}
+.paper-handle-r.data-v-c0bf9dee{
+	position: absolute;
+	right: 10rpx;
+	margin-top: 5rpx;
+	width: 240rpx;
+	background: #fff;
+	-webkit-box-shadow: 1rpx 1rpx 20rpx 2rpx #ccc;
+	        box-shadow: 1rpx 1rpx 20rpx 2rpx #ccc;
+	z-index: 9;
+}
+.paper-handle-r>view.data-v-c0bf9dee{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding: 5rpx 15rpx;
+}
+.paper-handle-r>view>view.data-v-c0bf9dee{
+	height: 60rpx;
+	line-height: 60rpx;
+	margin-left: 10rpx;
+	font-size: 32rpx;
+}	
+	
+

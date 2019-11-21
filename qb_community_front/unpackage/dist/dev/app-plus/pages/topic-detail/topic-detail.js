@@ -1,0 +1,2 @@
+setCssToHead(["body { background: #ecf0f1; }\n.",[1],"nothingTxt{ margin-top: ",[0,100],"; font-size: ",[0,32],"; color: #171606; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; color: #999; }\n",],undefined,{path:"./pages/topic-detail/topic-detail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/topic-detail/topic-detail.wxml') } }));

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"recupd{ width: 90%; margin: 0 auto; padding: ",[0,10],"; color: #333; }\n",],undefined,{path:"./pages/topic-nav/topic-nav.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/topic-nav/topic-nav.wxml') } }));

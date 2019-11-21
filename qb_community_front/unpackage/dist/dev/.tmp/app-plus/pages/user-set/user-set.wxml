@@ -1,0 +1,1 @@
+<view class="body"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><self-item-list vue-id="{{'1-'+index}}" item="{{item}}" index="{{index}}" bind:__l="__l"></self-item-list></block></block><button class="user-set-logout" type="primary" data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" bindtap="__e">退出登录</button></view>

@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 热门分类 */
+.hot-class.data-v-3bf6c979 {
+	width: 90%;
+	margin: 0 auto;
+	padding: 10rpx;
+	border-top: 1rpx solid #eee;
+	border-bottom: 1rpx solid #eee;
+	height: 150rpx;
+}
+.hot-class .hot-top.data-v-3bf6c979 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	height: 60rpx;
+}
+.hot-class .hot-top .hot-top-l.data-v-3bf6c979 {
+	color: #333;
+}
+.hot-class .hot-top .hot-top-r.data-v-3bf6c979 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	color: #999;
+}
+.hot-class .hot-top .hot-top-r>view.data-v-3bf6c979 {
+	font-size: 25rpx;
+	margin-left: 8rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.hot-class .hot-cont.data-v-3bf6c979 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.hot-class .hot-cont>view.data-v-3bf6c979 {
+	background: #ecf0f1;
+	padding: 5rpx 20rpx;
+	color: #999;
+	font-size: 24rpx;
+	margin-top: 20rpx;
+	border-radius: 5rpx;
+}
+
